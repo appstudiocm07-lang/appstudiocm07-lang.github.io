@@ -1,3 +1,4 @@
+vungle.com, 668f32ba514c00001146ead1, DIRECT, c107d686becd2d77
 chartboost.com, 69604c75c9a618017bdf24cf, DIRECT
 loopme.com, 18026, DIRECT, 6c8d5f95897a5a3b
 video.unrulymedia.com, 3948367200, RESELLER
